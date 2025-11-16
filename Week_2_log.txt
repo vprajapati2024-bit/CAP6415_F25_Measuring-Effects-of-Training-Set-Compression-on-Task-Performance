@@ -1,0 +1,27 @@
+ Week 2 Report
+
+
+1. Data Preprocessing Pipeline
+   - Implemented pixel normalization (0-255 → 0-1)
+   - Added a channel dimension for CNN compatibility
+   - Created one-hot encoding for categorical labels
+   - Established train-test split preservation
+
+2. Baseline Model Development
+   - Designed CNN architecture with 3 convolutional layers
+   - Implemented proper regularization (Dropout 0.5)
+   - Configured Adam optimizer with categorical cross entropy
+   - Model summary: ~100K parameters
+
+3. Baseline Training & Evaluation
+   - Trained for 15 epochs with batch size 128
+   - Achieved baseline performance:
+     -   Test Accuracy: 91.45%
+     -   Test Loss: 0.2578
+   - Generated training history visualizations
+   - Confirmed model convergence and no overfitting
+
+4. Performance Benchmarking
+   - Established baseline as a reference point
+   - Verified a model suitability for compression experiments
+   - Confirmed training stability across epochs
