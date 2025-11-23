@@ -1,0 +1,22 @@
+Week 3 Report
+
+
+1. Compression Method Implementation
+   - Random Subsampling: Simple random selection (10% of data)
+   - Stratified Sampling: Class-balanced random selection
+   - K-Center Greedy: Coreset selection using farthest-point sampling
+
+2. Compression Application
+   - Applied all three methods with 10% compression ratio
+   - Resulting dataset sizes: ~6,000 samples each
+   - Preserved data integrity and format compatibility
+
+3. Compressed Data Analysis
+   - Generated distribution visualizations for all methods
+   - Verified stratified sampling maintains class proportions
+   - Observed K-Center's diverse sample selection
+
+4. Initial Compressed Model Training
+   - Began training models on compressed datasets
+   - Used identical architecture and hyperparameters as baseline
+   - Implemented consistent evaluation metrics
