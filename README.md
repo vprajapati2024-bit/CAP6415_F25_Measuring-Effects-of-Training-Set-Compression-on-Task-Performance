@@ -1,7 +1,9 @@
 # CAP6415_F25_Measuring-Effects-of-Training-Set-Compression-on-Task-Performance
-Vinayak,Neel,Priyank
+1.Vinayak - vprajapati2024@fau.edu
+2.Neel - nthumar2024@fau.edu
+3.Priyank - pdhanani2024@fau.edu
 
-# E-commerce Product Image Classification – Training Set Compression
+# E-commerce Product Image Classification – Training Set Compression ( Description )
 
 This project evaluates how **training set compression** impacts the accuracy of a
 CNN classifier for e-commerce product images using the **Fashion-MNIST** dataset.
@@ -10,6 +12,25 @@ We simulate a real-world scenario where an e-commerce company wants to deploy a
 mobile app that can classify product categories from user-uploaded images, but
 has **limited storage and compute** on the device. The goal is to see how much
 we can reduce the training data while keeping accuracy high.
+
+
+## FRAMEWORK USED IN THIS PROJECT
+
+TensorFlow 2.x (with integrated Keras API)
+
+Keras for high-level neural network API
+
+
+## REQUIREMENT
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+jupyter
+
 
 ## Methods Compared
 
@@ -43,7 +64,7 @@ For each method we:
 - `.gitignore` – Ignore virtual environment and cache files.
 
 
-##Results
+## Results
 
 <img src="./Results/CVFP1.png">
 
