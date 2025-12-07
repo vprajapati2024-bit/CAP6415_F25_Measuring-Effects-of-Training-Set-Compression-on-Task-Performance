@@ -22,14 +22,14 @@ Keras for high-level neural network API
 
 
 ## REQUIREMENT
-tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-pillow
-jupyter
+-tensorflow
+-numpy
+-pandas
+-matplotlib
+-seaborn
+-scikit-learn
+-pillow
+-jupyter
 
 
 ## Methods Compared
