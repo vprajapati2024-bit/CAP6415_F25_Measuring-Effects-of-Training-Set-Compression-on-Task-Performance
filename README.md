@@ -38,10 +38,15 @@ For each method we:
   - Training on compressed datasets
   - Comprehensive visualizations
   - Final analysis and recommendations
-
 - `ecommerce_compression.ipynb` *(optional)* – Notebook version of the same logic.
 - `requirements.txt` – Python dependencies.
 - `.gitignore` – Ignore virtual environment and cache files.
+
+
+##Results
+<img src="./Results/CVFP1.png">
+<img src="./Results/CVFP2.png">
+<img src="./Results/CVFP3.png">
 
 ## How to Run
 
