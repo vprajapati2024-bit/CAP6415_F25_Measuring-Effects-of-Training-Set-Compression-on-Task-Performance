@@ -44,8 +44,11 @@ For each method we:
 
 
 ##Results
+
 <img src="./Results/CVFP1.png">
+
 <img src="./Results/CVFP2.png">
+
 <img src="./Results/CVFP3.png">
 
 ## How to Run
