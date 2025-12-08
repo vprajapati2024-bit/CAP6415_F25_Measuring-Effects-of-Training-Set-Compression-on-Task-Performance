@@ -1,0 +1,45 @@
+ Week 5 Report 
+
+
+1. Full Project Documentation**
+
+   -Created complete project documentation covering:
+
+     - Problem statement and objectives
+     - Methodology and compression techniques
+     - Baseline model and compressed model descriptions
+     - Final results and comparative analysis
+     - Added detailed explanations, charts, and code references
+     -Ensured clarity, academic writing quality, and professional formatting
+
+2. Project Presentation (PPT) Creation**
+
+    Developed a fully structured and visually appealing PowerPoint presentation
+    Included:
+
+     - Introduction & motivation
+     - Dataset overview and preprocessing pipeline
+     - Compression methods (Random, Stratified, K-Center)
+     - Model performance & accuracy comparison
+     - Final recommendations and insights
+
+3. Repository Organization 
+
+     - Organized the GitHub repository into a clean, professional structure
+     - Updated README with installation steps and project overview
+     - Code comments, docstrings, and descriptive filenames
+   - Ensured all notebooks and scripts run smoothly end-to-end
+   - Uploaded final visualizations, trained models, and result files
+
+4. Final Project Video Demo 
+
+   Recorded a complete walkthrough presentation of the project
+   Covered:
+
+     - Problem overview and real-world relevance
+     - Dataset explanation and model pipeline
+     - Each compression method and why it was chosen
+     - Training results and accuracy comparisons
+     - Conclusions, recommendations, and future scope
+     - Ensured clear narration, screen demonstration, and visual explanations
+
